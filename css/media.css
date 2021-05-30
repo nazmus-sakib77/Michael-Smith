@@ -9,16 +9,16 @@
         }
         /* header top bar start  */
         .header_top_bar{
-            padding-top: 10px;
+            padding-top: 6px;
+            margin: 0px;
             background-color: #00003A;
-        
         }
         .number{
             
         
         }
         .n_phone{
-            font-size: 9px;
+            font-size: 7px;
             margin: 0;
             margin-right: 10px;
             text-decoration: none;
@@ -33,19 +33,19 @@
         }
         .n_icon{
             margin: 0 3px;
-            font-size: 11px;
+            font-size: 8px;
         }
         .social_link{
             float: right;
-            margin-right: 15px;
+            margin-right: 16px;
         }
         .social_icon{
             text-decoration: none;
             color: white;
         }
         .s_icon{
-            margin: 0px;
-            font-size: 13px;
+            margin: -3px;
+            font-size: 10px;
         }
         .social_icon:hover{
             color: white;
@@ -66,6 +66,7 @@
             font-family: 'Lato', sans-serif;
             font-weight: 500;
             text-transform: capitalize;
+            font-size: 14px;
         }
         
         .manu {}
@@ -74,7 +75,7 @@
             font-family: 'Noto Sans TC', sans-serif;
             text-transform: uppercase;
             color: white !important;
-        
+            font-size: 10px;
         }
         
         .manu ul li a:hover {
@@ -84,7 +85,7 @@
         /* header end */
         /* banner start */
         .banner{
-            padding: 53px 0;
+            padding: 0px 0;
             background-image: url(../img/banner.jpeg);
             background-position: center;
             background-repeat: no-repeat;
@@ -92,18 +93,18 @@
             font-family: 'Noto Sans TC', sans-serif;
         }
         .b_content{
-            padding: 0px 0;
+            padding: 26px 0;
             text-align: center;
         }
          .b_h1{
         color: black;
-        font-size: 28px;
+        font-size: 16px;
         }
          .b_p{
         
 color: black;
         
-font-size: 11px;
+font-size: 9px;
         
 line-height: 1.8;
         
@@ -112,9 +113,9 @@ margin: 17px 0;
         .b_btn{
             color: red;
             border: 1px solid red;
-            width: 74px;
-            height: 26px;
-            font-size: 8px;
+            width: 62px;
+            height: 23px;
+            font-size: 6px;
         }
          .b_btn:hover{
             background-color: red;
@@ -128,14 +129,14 @@ margin: 17px 0;
         .best_service{
             margin-bottom: 15px;
         }
-        .bs_h2{font-size: 23px;font-weight: 600;}
+        .bs_h2{font-size: 17px;font-weight: 600;}
         .bs_p{
             
 margin: 6px 0;
             
 color: #8e8e8e;
             
-font-size: 11px;
+font-size: 9px;
         }
         .myservices{
             margin-bottom:20px;
@@ -151,15 +152,15 @@ font-size: 11px;
          
         .s_s_icon{
         
-font-size: 30px;
+font-size: 24px;
         
 color: red;
         }
         .s_sh4{
         
-margin: 12px 0;
+margin: 4px 0;
         
-font-size: 22px;
+font-size: 12px;
         
 font-weight: 600;
         }
@@ -167,7 +168,7 @@ font-weight: 600;
         
 color: #8e8e8e;
         
-font-size: 13px;
+font-size: 10px;
         }
         /* service end */
         
@@ -180,22 +181,22 @@ font-size: 13px;
             background-repeat: no-repeat;
         }
         .expe_h1{
-            font-size: 25px;
+            font-size: 20px;
             color: white;
         }
         .expe_p{
-            font-size: 11px;
+            font-size: 9px;
             color: white;
             line-height: 1.8;
-            margin-top: 24px;
+            margin-top: 10px;
             margin-bottom: 2px;
         }
         .expe_btn{
             background: transparent !important;
             border: 1px solid white;
             color: white;
-            margin-top: 30px;
-            font-size: 10px;
+            margin-top: 15px;
+            font-size: 7px;
         }
         .expe_btn:hover{
             color: white;
@@ -207,11 +208,11 @@ font-size: 13px;
         }
         .skill_h1{
           color: white;
-          font-size: 25px;
+          font-size: 21px;
         }
         .skill_p{
           color: white;
-          font-size: 11px;
+          font-size: 9px;
         }
         .progress{
             color: white;
@@ -219,8 +220,8 @@ font-size: 13px;
         }
         .c_c_color{
             color: white;
-            font-size: 11px;
-            margin-bottom: 7px;
+            font-size: 10px;
+            margin-bottom: 0px;
         }
         .pro_color{
             background-color:#0d6efd;
@@ -235,21 +236,23 @@ font-size: 13px;
         .choose{
         
 margin-bottom: 33px;
+        
+text-align: center;
         }
         .co_h2{
-           font-size: 25px;
+           font-size: 22px;
            font-weight: 600;
         }
         .co_p{
             margin: 13px 0;
-            font-size: 12px;
+            font-size: 10px;
             color: #8e8e8e;
         }
         .expert{
             box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
             text-align: center;
             background-color: #FAFAFA;
-            padding: 43px 41px;
+            padding: 32px 25px;
             margin-bottom: 20px;
         }
         
@@ -259,7 +262,7 @@ font-weight: 600;
         
 line-height: 1.3;
         
-font-size: 19px;
+font-size: 15px;
         }
         .te_color{
             color: red;
@@ -268,19 +271,21 @@ font-size: 19px;
         
         /* protfolio section start */
         .protfolio{
-            padding: 50px 0;
+            padding: 25px 0;
         }
         .project{
         
 margin-bottom: 31px;
+        
+text-align: center;
         }
         .pr_h2{
-           font-size: 25px;
+           font-size: 21px;
            font-weight: 600;
         }
         .pr_p{
             margin: 15px 0;
-            font-size: 12px;
+            font-size: 10px;
             color: #8e8e8e;
         }
         
@@ -323,7 +328,7 @@ margin-bottom: 31px;
             
 border-radius: 5px;
             
-width: 76%;
+width: 70%;
         }
         
         .content-details {
@@ -409,7 +414,7 @@ color: white;
          }
          .next_project{
              
-padding: 39px 0;
+padding: 20px 0;
              
 text-align: center;
              
@@ -419,24 +424,24 @@ font-family: 'Noto Sans TC', sans-serif;
          }
          .nex_h1{
         
-font-size: 21px;
+font-size: 14px;
         
 text-transform: uppercase;
         }
          .nex_p{
         
-margin-bottom: 23px;
+margin-bottom: 11px;
         
-font-size: 11px;
+font-size: 9px;
         
 color: white;
         }
          .nex_btn{
              color: red;
              border: 1px solid red;
-             width: 81px;
-             height: 32px;
-             font-size: 12px;
+             width: 65px;
+             height: 25px;
+             font-size: 9px;
          }
          .nex_btn:hover{
             color: white;
@@ -519,30 +524,31 @@ color: #8e8e8e;
          /* message section start */
          .message{
         
-         }
+padding-top: 0px;
+}
          .send_me{
-             margin-bottom: 20px;
-        
+             margin-bottom: 42px;
+             text-align: center;
          }
          .send_h2{
-            font-size: 25px;
+            font-size: 20px;
             font-weight: 600;
          }
          .send_p{
-            margin: 22px 0;
-            font-size: 12px;
+            margin: 10px 0;
+            font-size: 10px;
             color: #8e8e8e;
          }
         
          .information{
              text-align: center;
              background-color: #fafafa;
-             padding: 23px 11px;
+             padding: 27px 14px;
              box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
              margin-bottom: 50px;
          }
          .infor_icon{
-             font-size: 24px;
+             font-size: 25px;
              color: red;
          }
          .p_phone{
@@ -551,11 +557,11 @@ margin-bottom: 2px;
         
 margin-top: 1px;
         
-font-size: 15px;
+font-size: 16px;
         }
          .teliphone{
              text-decoration: none;
-             font-size: 12px;
+             font-size: 11px;
              color: black;
          }
          .teliphone:hover{
@@ -565,7 +571,7 @@ font-size: 15px;
         
 margin-top: 10px;
         
-font-size: 10px;
+font-size: 11px;
         
 color: #8e8e8e;
         
@@ -581,7 +587,7 @@ margin: 0;
         .form_in{
             margin-bottom: 17px;
             border: 1px solid black;
-            font-size: 13px;
+            font-size: 10px;
         }
         .form_in:focus{
             box-shadow: none;
@@ -590,7 +596,7 @@ margin: 0;
         .ms_type{
             margin-bottom: 13px;
             border: 1px solid black;
-            height: 135px;
+            height: 125px;
             font-size: 12px;
         }
         .ms_type:focus{
@@ -602,7 +608,7 @@ margin: 0;
             width: 100%;
             font-size: 12px;
             color: red;
-            height: 34px;
+            height: 31px;
             border: 1px solid red;
         }
         .ms_btn:hover{
@@ -620,23 +626,23 @@ margin: 0;
              padding: 0;
          }
          .footer_ul{
-             margin: 28px 0;
+             margin: 13px 0;
          }
          .fo_atage{
         
          }
          .fo_icon{
         
-font-size: 16px;
+font-size: 10px;
         
 color: white;
         
-margin: 0 4px;
+margin: 0 0px;
         }
         .copyright{
             float: right;
-            margin: 28px 0;
-            font-size: 12px;
+            margin: 21px 0;
+            font-size: 7px;
         }
         .copy_p{
             color: white;
